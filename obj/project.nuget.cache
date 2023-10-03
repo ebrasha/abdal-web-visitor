@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qLkpE2lchiH2Q1mapWejzXGGzup5yM4eoaGB+iy2cELdPCMlRoM3psIeKoGZleDJkjzOHtbB0/+OEBJbZqqJQ==",
+  "success": true,
+  "projectFilePath": "F:\\Drive-C\\Documents\\Github\\Abdal Web Visitor\\Abdal Web Visitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\selenium.webdriver\\4.13.1\\selenium.webdriver.4.13.1.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\selenium.webdriver.chromedriver\\117.0.5938.9200\\selenium.webdriver.chromedriver.117.0.5938.9200.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.21\\microsoft.netcore.app.runtime.linux-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.21\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.21\\microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

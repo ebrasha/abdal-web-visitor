@@ -1,0 +1,25 @@
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\selenium-manager\linux\selenium-manager
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\selenium-manager\macos\selenium-manager
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\selenium-manager\windows\selenium-manager.exe
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Abdal Web Visitor.exe
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Abdal Web Visitor.deps.json
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Abdal Web Visitor.runtimeconfig.json
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Abdal Web Visitor.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Abdal Web Visitor.pdb
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\WebDriver.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\System.Drawing.Common.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.csproj.AssemblyReference.cache
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.AssemblyInfoInputs.cache
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.AssemblyInfo.cs
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.csproj.CoreCompileInputs.cache
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.csproj.CopyComplete
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\refint\Abdal Web Visitor.dll
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.pdb
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\Abdal Web Visitor.genruntimeconfig.cache
+F:\Drive-C\Documents\Github\Abdal Web Visitor\obj\Release\net6.0\ref\Abdal Web Visitor.dll

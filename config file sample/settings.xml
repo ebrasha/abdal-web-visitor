@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Infinite>true</Infinite>
+    <LoadWaitTime>3000</LoadWaitTime>
+    <EnableScroll>true</EnableScroll>
+    <ScrollWaitTime>10000</ScrollWaitTime>
+    <IdleTimeAfterScroll>5000</IdleTimeAfterScroll>
+</Settings>
