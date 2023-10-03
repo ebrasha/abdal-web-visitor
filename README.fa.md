@@ -52,8 +52,10 @@ Abdal Web Visitor توسط ابراهیم شفیعی: یک ابزار خودکا
 - Win 7 x64
 - debian.11-x64
 - debian.11-arm64
+- MacOSX-x64
 - ubuntu.22.04-x64
 - ubuntu.22.04-arm64
+- ubuntu.20.04-x64
 - centos.7-x64
 - fedora.37-x64
 
