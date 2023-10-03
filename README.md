@@ -57,7 +57,20 @@ Just download and run the version you desire.
 - centos.7-x64
 - fedora.37-x64
 
- 
+ ## ℹ️Configuration
+
+Configuration:
+
+    Settings File: The software uses a file named "settings.xml" to manage its configurations.
+    Adding URLs: To add web addresses to the software, edit the "urls.xml" file.
+
+How to Add Web Addresses:
+
+    Open the "urls.xml" file with a text editor.
+    Place new web addresses inside <url></url> tags.
+    Save the file and run the software again.
+
+Remember always to ensure that the URLs are correctly formatted and start with "http://" or "https://". Misformatted URLs might lead to unexpected behavior in the software.
 
 ## ⚠️ Legal disclaimer ⚠️
 
